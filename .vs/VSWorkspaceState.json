@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ClothesWebNET",
+    "\\ClothesWebNET\\App_Start",
+    "\\ClothesWebNET\\Areas",
+    "\\ClothesWebNET\\Areas\\Admin",
+    "\\ClothesWebNET\\Areas\\Admin\\Controllers",
+    "\\ClothesWebNET\\Areas\\Admin\\Views",
+    "\\ClothesWebNET\\Areas\\Admin\\Views\\Bills",
+    "\\ClothesWebNET\\Controllers"
+  ],
+  "SelectedNode": "\\ClothesWebNET\\App_Start\\FilterConfig.cs",
+  "PreviewInSolutionExplorer": false
+}
